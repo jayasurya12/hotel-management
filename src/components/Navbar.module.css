@@ -1,0 +1,26 @@
+nav{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    background-color: rgba(26, 109, 235, 0.171);
+    
+}
+
+ul{
+    display: flex;
+    justify-content: space-around;
+    width: 30%;
+    align-items: center;
+
+}
+
+ul>a{
+    text-decoration: none;
+    font-size: 20px;
+}
+.btn{
+    background-color: rgba(192, 192, 192, 0.589);
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+}

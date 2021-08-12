@@ -1,0 +1,16 @@
+.main{
+    float: right;
+    align-items: center;
+    width: 25.5%;
+    text-align: center;
+}
+.main>.btn{
+    position: relative;
+    left: 40%;
+}
+
+.main > form{
+    min-height: 100px;
+    /* position: fixed; */
+    background-color: rgba(255, 245, 238, 0.39);
+}

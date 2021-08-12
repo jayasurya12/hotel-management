@@ -1,0 +1,28 @@
+/* .main{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: space-around;
+} */
+.customer{
+    width: 360px;
+    border: 1px solid rgb(63, 61, 61);
+    background-color: #f8f8ff;
+    border-radius: 2px;
+    padding: 10px;
+    margin:10px 5px;
+    
+
+}
+.customer>h3{
+    background-color: rgb(7, 110, 7);
+    text-align: center;
+    color: ghostwhite;
+}
+.hi{
+    margin-left: 10px;
+}
+
+#ma{
+    margin-bottom: 10px;
+}

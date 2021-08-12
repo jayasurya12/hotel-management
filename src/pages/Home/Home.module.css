@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Acme&family=Pacifico&display=swap');
+body{
+     
+    background-size: cover;
+    background-attachment: fixed;
+    background-image: linear-gradient(rgba(0,0,0,0.567),rgba(0,0,0,0.7)),url('../../img/img4.jpg');
+}
+.formModel{
+    background-color: rgba(255, 255, 255, 0.671);
+    width: 43%;
+    border-radius: 10px;
+    box-shadow: white;
+    font-family: 'Acme', sans-serif;
+    margin-left:30%;
+    margin-bottom: 20px;
+    padding: 10px;
+    opacity: 0.8;
+    text-align: center;
+    
+}
+
+input[type=text]{
+  display: flex;
+  text-align: center;
+  margin-bottom: 10px;
+  padding: 10px;
+  width: 85%;
+  border-radius: 5px;
+  outline: none;
+  border: none;
+}
+textarea{
+   height: 50px;
+}
+.formModel>.form>button{
+    padding: 10px;
+    
+}
+.form{
+    width: 100%;
+    padding: 20px;
+}
+
